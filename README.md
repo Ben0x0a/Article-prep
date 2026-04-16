@@ -53,7 +53,7 @@ Support files (`.bib`, `.cls`, `.sty`) at the source root are copied as-is.
 **Authors & emails**
 ```latex
 % Before
-\author[unil]{Jane Doe\corref{cor1}}
+\author[unil]{Jane Doe}
 \ead{jane.doe@university.ch}
 
 % After
